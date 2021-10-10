@@ -1,19 +1,11 @@
 # vue+element-ui实现前后端分离的响应式个人博客
 
-## 后端项目地址 
 
-[node+expree+mysql实现的个人博客系统](https://gitee.com/huang-rijian/node-blog-system)
-
-## 线上地址 
-
-[黄先森个人博客](http://112.124.52.188)
 
 
 ## 安装运行
 ```
 $前端
-$ git clone https://gitee.com/huang-rijian/Vue-personal-Blog-front-end.git
-$ cd Vue-personal-Blog-front-end
 $ npm install
 $ npm run serve
 ```

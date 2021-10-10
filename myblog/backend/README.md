@@ -1,20 +1,8 @@
 # node个人博客系统
 
 
-## 前端项目地址 
-
-[基于vue+element-ui实现的个人博客](https://gitee.com/huang-rijian/Vue-personal-Blog-front-end)
-
-## 线上地址 
-
-[黄先森个人博客](http://112.124.52.188)
-
-
-## 安装运行
 ```
 $前端
-$ git clone https://gitee.com/huang-rijian/Vue-personal-Blog-front-end.git
-$ cd Vue-personal-Blog-front-end
 $ npm install
 $ npm run serve
 ```
@@ -23,8 +11,6 @@ $ npm run serve
 
 ```
 $后端
-$ git clone https://gitee.com/huang-rijian/node-blog-system
-$ cd node-personal-blog-system
 $ npm install
 
 ```
